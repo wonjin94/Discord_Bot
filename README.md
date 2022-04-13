@@ -11,7 +11,7 @@ up to date commands :<br/>
     output - quest difficulties + quest location marked on a map<br/>
     
     example screenshot from discord<br/>
-    ![alt text](https://github.com/wonjin94/Discord_Bot/blob/main/havenss_example.PNG)<br/>
+    ![alt text](https://github.com/wonjin94/Discord_Bot/blob/main/example_screenshots/havenss_example.PNG)<br/>
 2. !havenmap -<br/>
     input - abbreviation of quests<br/>
     output - quest difficulties + quest location marked on a map<br/>
@@ -33,7 +33,7 @@ up to date commands :<br/>
         !haven bhicscip  quest2 ....
    
    example screenshot from discord<br/>
-   ![alt text](https://github.com/wonjin94/Discord_Bot/blob/main/haven_map_example.PNG)<br/>
+   ![alt text](https://github.com/wonjin94/Discord_Bot/blob/main/example_screenshots/haven_map_example.PNG)<br/>
   
 
 
@@ -43,7 +43,7 @@ up to date commands :<br/>
     
     format - !hyperstat main_stat sub_stat crit_dmg ied dmg boss_dmg att% stat_window_value weap_value stat_point_avail
     
-    ![alt text](https://github.com/wonjin94/Discord_Bot/blob/main/hyperstat_example.PNG)<br/>
+    ![alt text](https://github.com/wonjin94/Discord_Bot/blob/main/example_screenshots/hyperstat_example.PNG)<br/>
     
 
 
