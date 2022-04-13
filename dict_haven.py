@@ -1,15 +1,14 @@
 
-"""
- dictionary for Heaven quests
- names of the quests were patched after Rise patch
-
- name - quest name before the patch
- new_name - currently used quest name, quest name after the Rise patch, 
- map - best map to complete given quest
- 
- use abbreviation to find quest info - first alphabet for each word
- scrap is sc, steel is st, not s 
-"""
+#
+# dictionary for Heaven quests
+# names of the quests were patched after Rise patch
+#
+# name - quest name before the patch
+# new_name - currently used quest name, quest name after the Rise patch, 
+# map - best map to complete given quest
+#
+# use abbreviation to find quest info - first alphabet for each word
+# scrap is sc, steel is st, not s 
 
 dict_Haven = {
     "havcrap": {
@@ -333,11 +332,10 @@ dict_Haven = {
 
 
 
-"""
-    trying to make the dictionary search bit faster
-    following dicts are not used at the moment
+# trying to make the dictionary search bit faster
+# following dicts are not used at the moment
 
-"""
+
 dict_Haven_find = {
     "hav": {
         "crap" : 1,
@@ -400,13 +398,13 @@ dict_Haven_find = {
     }
 }
 
-"""
- dictionary for Heaven quests
- names of the quests were patched after Rise patch
 
- similar to dict_haven dictionary
- use quest name to find info
-"""
+# dictionary for Heaven quests
+# names of the quests were patched after Rise patch
+
+# similar to dict_haven dictionary
+# use quest name to find info
+
 dict_Haven_screenshot={
     "Haven": {
         "Collect Red Antenna Piece": {
