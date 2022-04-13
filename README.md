@@ -1,6 +1,6 @@
 # Discord_Bot
 
-bot commands are called by using !command
+bot commands are called by using !command.
 some commands are no longer in use (outdated but still functional) or has been updated with more functionality
 
 
