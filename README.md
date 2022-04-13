@@ -37,11 +37,16 @@ up to date commands :<br/>
   
 
 
-3. !hyperstat - 
+3. !hyperstat - <br/>
+    I made this function for a personal use, but it is still available for use
+    
+    format - !hyperstat main_stat sub_stat crit_dmg ied dmg boss_dmg att% stat_window_value weap_value stat_point_avail
+    
+    ![alt text](https://github.com/wonjin94/Discord_Bot/blob/main/havenss_example.PNG)<br/>
+    
 
 
 out dated commands :
 
 1. !haven - updated to havenmap
 2. !tree - rarely used by users since quest difficulties can be determined easily
-3. 
