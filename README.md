@@ -30,7 +30,7 @@ up to date commands :<br/>
         !haven bhicscip  quest2 ....
    
    example screenshot from discord<br/>
-   ![alt text](https://github.com/wonjin94/Discord_Bot/blob/main/haven_map_example.PNG)
+   ![alt text](https://github.com/wonjin94/Discord_Bot/blob/main/haven_map_example.PNG)<br/>
    output - quest difficulties + quest location marked on a map
 
 
