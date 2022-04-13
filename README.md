@@ -42,7 +42,7 @@ up to date commands :<br/>
     
     format - !hyperstat main_stat sub_stat crit_dmg ied dmg boss_dmg att% stat_window_value weap_value stat_point_avail
     
-    ![alt text](https://github.com/wonjin94/Discord_Bot/blob/main/havenss_example.PNG)<br/>
+    ![alt text](https://github.com/wonjin94/Discord_Bot/blob/main/hyperstat_example.PNG)<br/>
     
 
 
