@@ -12,6 +12,7 @@ up to date commands :<br/>
     
 2. !havenmap -<br/>
     input - abbreviation of quests<br/>
+    output - quest difficulties + quest location marked on a map<br/>
         format : !havenmap quest1 quest2... (the number of quest names does not matter)
             
             quest abbreviation has 2 parts
@@ -31,7 +32,7 @@ up to date commands :<br/>
    
    example screenshot from discord<br/>
    ![alt text](https://github.com/wonjin94/Discord_Bot/blob/main/haven_map_example.PNG)<br/>
-   output - quest difficulties + quest location marked on a map
+  
 
 
 3. !hyperstat - 
