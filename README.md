@@ -28,6 +28,8 @@ up to date commands :
 
         example quest name : Black Haven Inside: Collect Scrap ID Plate
         !haven bhicscip  quest2 ....
+   
+   example screenshot from discord
    ![alt text](https://github.com/wonjin94/Discord_Bot/blob/main/haven_map_example.PNG)
    output - quest difficulties + quest location marked on a map
 
