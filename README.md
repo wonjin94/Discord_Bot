@@ -38,7 +38,8 @@ up to date commands :<br/>
 
 
 3. !hyperstat - <br/>
-    I made this function for a personal use, but it is still available for use
+    I made this function for a personal use, but it is still available for use.<br/>
+    It computes the best combination for hyper stat (max dmg)
     
     format - !hyperstat main_stat sub_stat crit_dmg ied dmg boss_dmg att% stat_window_value weap_value stat_point_avail
     
