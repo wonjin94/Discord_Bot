@@ -10,6 +10,8 @@ up to date commands :<br/>
     input - screenshot of the quest<br/>
     output - quest difficulties + quest location marked on a map<br/>
     
+    example screenshot from discord<br/>
+    ![alt text](https://github.com/wonjin94/Discord_Bot/blob/main/havenss_example.PNG)<br/>
 2. !havenmap -<br/>
     input - abbreviation of quests<br/>
     output - quest difficulties + quest location marked on a map<br/>
