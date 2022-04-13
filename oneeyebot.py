@@ -19,6 +19,7 @@ import map
 from discord_components import Button, Select,SelectOption,ComponentsBot
 #from discord import File
 
+# command prefix for the bot ! in this case  !command
 client = commands.Bot(command_prefix = '!')
 
 
