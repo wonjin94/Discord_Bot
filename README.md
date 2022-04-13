@@ -1,17 +1,17 @@
 # Discord_Bot
 
-Bot commands are called by using !command.
+Bot commands are called by using !command.<br/>
 Some commands are no longer in use (outdated but still functional) or has been updated with more functionality.
 
 
-up to date commands :
+up to date commands :<br/>
 
-1. !havenss
-    input - screenshot of the quest
-    output - quest difficulties + quest location marked on a map
+1. !havenss<br/>
+    input - screenshot of the quest<br/>
+    output - quest difficulties + quest location marked on a map<br/>
     
-2. !havenmap -
-    input - abbreviation of quests
+2. !havenmap -<br/>
+    input - abbreviation of quests<br/>
         format : !havenmap quest1 quest2... (the number of quest names does not matter)
             
             quest abbreviation has 2 parts
