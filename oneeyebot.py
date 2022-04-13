@@ -119,13 +119,13 @@ async def haven(ctx,*,args):
 
 
 def haven_map_update_output_string(quest_name):
-    """
-    output string is in following format
-
-    quest_name : difficulty
-    --- Map: map location
+   
+    #  output string is in following format:
+    #
+    #  quest_name : difficulty
+    #   --- Map: map location
     
-    """
+    
     output_string = dict_Haven[quest_name]["new_name"] + " : " + dict_Haven[quest_name]["difficulty"]+ "\n" + "--- Map : " + dict_Haven[quest_name]["map"] + "\n"
 
     return output_string
