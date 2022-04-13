@@ -12,6 +12,10 @@ up to date commands :<br/>
     
     example screenshot from discord<br/>
     ![alt text](https://github.com/wonjin94/Discord_Bot/blob/main/example_screenshots/havenss_example.PNG)<br/>
+    
+    In order to use python tesseract, download all files in https://github.com/tesseract-ocr/tesseract to the same folder as the rest of the code.
+    
+    
 2. !havenmap -<br/>
     input - abbreviation of quests<br/>
     output - quest difficulties + quest location marked on a map<br/>
